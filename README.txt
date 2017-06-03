@@ -2,8 +2,8 @@
 This is python script for easy download of NSIT's previous years exam papers.
 
 Following modules are needed to download for proper running of the script:
-# bs4
-# getch
+1. bs4
+2. getch
 
 Type the following commands in cmd terminal to download module: 
 
