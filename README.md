@@ -7,5 +7,5 @@ Following modules are needed to download for proper running of the script:
 
 Type the following commands in cmd terminal to download module: 
 
-For bs4 : " python pip -m install bs4 "
-For getch: " python pip -m install py-getch
+1. For bs4 : " python pip -m install bs4 "
+2. For getch: " python pip -m install py-getch
